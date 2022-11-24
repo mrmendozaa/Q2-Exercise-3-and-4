@@ -1,0 +1,45 @@
+#div1{
+	border-style: dotted;
+	border-color: #FFDBE6 ;
+	margin: 15%;
+	padding: 12px;
+}
+#product{
+	font-family: ;
+	font-size: 14pt;
+	text-align: left;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+#price{
+	margin-top: 25px;
+	margin-bottom: 25px;
+	font-family: ;
+	font-size: 100pt;
+	text-align: center;
+}
+body{
+	background-color: #FFEBF1;
+}
+img{
+	height: 50%;
+	width: 50;
+	margin-left: 200px;
+}
+h4{
+	font-family: ;
+	font-size: 54pt;
+	text-align: center;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+button{
+	border: none;
+	border-radius: 6px;
+	outline: 0;
+	display: inline-block;
+	padding: 12px;
+	color: white;
+	background-color: #FFC9DA;
+	
+}
